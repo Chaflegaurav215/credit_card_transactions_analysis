@@ -1,7 +1,7 @@
 # Credit Card Transactions Analysis (SQL + SSMS)
 
 ![SQL] ![Data Analysis]
-(httos://img.shields.io/badge/Data%20Analysis-9%20Queries-green)
+
 
 ## 📁 Project Structure
 - data/credit_card_sample.csv – Sample of the original Kaggle credit card transactions dataset used for analysis.  
